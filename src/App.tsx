@@ -12,8 +12,6 @@ import ProjectOne from "./pages/projects/ProjectOne";
 import ProjectTwo from "./pages/projects/ProjectTwo";
 import ProjectThree from "./pages/projects/ProjectThree";
 
-// Add these
-
 const App: React.FC = () => {
   return (
     <Router>
