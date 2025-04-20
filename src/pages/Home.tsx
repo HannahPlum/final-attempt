@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import profilePic from "/project/workspace/src/assets/profile.jpg";
+import profilePic from "/src/assets/profile.jpg";
 
 const Home: React.FC = () => {
   return (
